@@ -8,6 +8,7 @@ categories:
 
 Grand New Open!
 ================
+[更新]家裡筆電要可以deploy才行啊~靠！
 
 我們是一群喜歡打勾勾的手作愛好者。~ww
 
