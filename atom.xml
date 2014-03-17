@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://crochetgirls.github.io/atom.xml" rel="self"/>
+  <link href="http://crochetgirls.github.io/"/>
+  <updated>2014-03-17T12:53:11+08:00</updated>
+  <id>http://crochetgirls.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello and Welcome!]]></title>
+    <link href="http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome/"/>
+    <updated>2014-03-17T12:47:06+08:00</updated>
+    <id>http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome</id>
+    <content type="html"><![CDATA[<h1>Grand New Open!</h1>
+
+<p>我們是一群喜歡打勾勾的手作愛好者。~ww</p>
+
+<p>如果你也喜歡打毛線、作手作，歡迎你一起來加入我們！！</p>
+
+<h2>Happy Crochet Happy Craft!!</h2>
+]]></content>
+  </entry>
+  
+</feed>
