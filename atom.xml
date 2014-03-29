@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://crochetgirls.github.io/atom.xml" rel="self"/>
   <link href="http://crochetgirls.github.io/"/>
-  <updated>2014-03-16T15:37:59+08:00</updated>
+  <updated>2014-03-29T22:15:48+08:00</updated>
   <id>http://crochetgirls.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post From Mi's Macbookpro]]></title>
+    <link href="http://crochetgirls.github.io/blog/2014/03/17/post-from-mis-macbookpro/"/>
+    <updated>2014-03-17T21:22:28+08:00</updated>
+    <id>http://crochetgirls.github.io/blog/2014/03/17/post-from-mis-macbookpro</id>
+    <content type="html"><![CDATA[<p>就說了我mbp一定要deploy成功啊!!!!
+你說是不是！是不是！是不是啊！</p>
+
+<p>from MBP ~w</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello and Welcome!]]></title>
+    <link href="http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome/"/>
+    <updated>2014-03-17T12:47:06+08:00</updated>
+    <id>http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome</id>
+    <content type="html"><![CDATA[<h1>Grand New Open!</h1>
+
+<p>[更新]家裡筆電要可以deploy才行啊~靠！</p>
+
+<p>我們是一群喜歡打勾勾的手作愛好者。~ww</p>
+
+<p>如果你也喜歡打毛線、作手作，歡迎你一起來加入我們！！</p>
+
+<h2>Happy Crochet Happy Craft!!</h2>
+]]></content>
+  </entry>
   
 </feed>
