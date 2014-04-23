@@ -4,11 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://crochetgirls.github.io/atom.xml" rel="self"/>
   <link href="http://crochetgirls.github.io/"/>
-<<<<<<< HEAD
-  <updated>2014-03-17T12:53:11+08:00</updated>
-=======
-  <updated>2014-03-29T22:27:53+08:00</updated>
->>>>>>> 095c9fd561cf5f6940b2aaf27ff594c840c6f657
+  <updated>2014-04-23T14:38:32+08:00</updated>
   <id>http://crochetgirls.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,8 +14,19 @@
 
   
   <entry>
-<<<<<<< HEAD
-=======
+    <title type="html"><![CDATA[勾勾椅背套~w]]></title>
+    <link href="http://crochetgirls.github.io/blog/2014/04/23/first-practice-back-cover/"/>
+    <updated>2014-04-23T12:08:22+08:00</updated>
+    <id>http://crochetgirls.github.io/blog/2014/04/23/first-practice-back-cover</id>
+    <content type="html"><![CDATA[<h2>第一次勾椅背套</h2>
+
+<p><img src="http://www.dropbox.com/s/1m6g9vmeo6c2hhz/chair_back_cover.jpg" alt="椅背套"></p>
+
+<p>下次再把pattern補上！~w</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Post From Mi's Macbookpro]]></title>
     <link href="http://crochetgirls.github.io/blog/2014/03/17/post-from-mis-macbookpro/"/>
     <updated>2014-03-17T21:22:28+08:00</updated>
@@ -32,18 +39,14 @@
   </entry>
   
   <entry>
->>>>>>> 095c9fd561cf5f6940b2aaf27ff594c840c6f657
     <title type="html"><![CDATA[Hello and Welcome!]]></title>
     <link href="http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome/"/>
     <updated>2014-03-17T12:47:06+08:00</updated>
     <id>http://crochetgirls.github.io/blog/2014/03/17/hello-and-welcome</id>
     <content type="html"><![CDATA[<h1>Grand New Open!</h1>
 
-<<<<<<< HEAD
-=======
 <p>[更新]家裡筆電要可以deploy才行啊~靠！</p>
 
->>>>>>> 095c9fd561cf5f6940b2aaf27ff594c840c6f657
 <p>我們是一群喜歡打勾勾的手作愛好者。~ww</p>
 
 <p>如果你也喜歡打毛線、作手作，歡迎你一起來加入我們！！</p>
